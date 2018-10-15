@@ -1,5 +1,5 @@
 var count = 0;
-$('#button').click(function() {
+$("#button").click(function() {
   count++;
-  $('#counter').html('Nombre de click : '+count);
+  $("#counter").html("Nombre de click : "+count);
 });
