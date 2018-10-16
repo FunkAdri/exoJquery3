@@ -1,6 +1,6 @@
-var count = 0;// declaration de la variable count
-
 $(function() { // permet de lancer les fonctions une fois le DOM chargé
+
+var count = 0;// declaration de la variable count
 
   $("#buttonp").click(function() { // fonction incrementer variable count
     count++;
